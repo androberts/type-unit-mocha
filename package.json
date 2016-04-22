@@ -1,6 +1,6 @@
 {
   "name": "type-unit-mocha",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "mocha plugin for type-unit",
   "main": "dist/index.js",
   "dependencies": {},
@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/aroberts-illumina/type-unit-mocha/issues"
   },
-  "homepage": "https://github.com/aroberts-illumina/type-unit-mocha#readme"
+  "homepage": "https://github.com/aroberts-illumina/type-unit-mocha#readme",
+  "files": [
+    "dist/index.js"
+  ]
 }
