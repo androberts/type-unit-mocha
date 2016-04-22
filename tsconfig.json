@@ -1,0 +1,19 @@
+{
+  "version": "1.8.7",
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "declaration": true,
+    "noImplicitAny": false,
+    "removeComments": true,
+    "noLib": false,
+    "emitDecoratorMetadata": true,
+    "sourceMap": true,
+    "listFiles": true,
+    "outDir": "dist",
+    "experimentalDecorators": true
+  },
+  "exclude": [
+      "node_modules", "test"
+  ]
+}

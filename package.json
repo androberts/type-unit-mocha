@@ -1,0 +1,29 @@
+{
+  "name": "type-unit-mocha",
+  "version": "0.1.0",
+  "description": "mocha plugin for type-unit",
+  "main": "dist/index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha",
+    "prepublish" : "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aroberts-illumina/type-unit-mocha.git"
+  },
+  "keywords": [
+    "mocha",
+    "type-unit",
+    "unit",
+    "testing",
+    "typescript"
+  ],
+  "author": "Andrew Roberts <aroberts@illumina.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aroberts-illumina/type-unit-mocha/issues"
+  },
+  "homepage": "https://github.com/aroberts-illumina/type-unit-mocha#readme"
+}
